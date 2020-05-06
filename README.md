@@ -16,4 +16,4 @@
 1. [easyUML for Netbeans](http://plugins.netbeans.org/plugin/55435/easyuml)
 
 ## Діаграма класів
-<img src="https://github.com/ppc-ntu-khpi/masivi-34-idjis/blob/master/massiv.PNG" width="40%"/>
+<img src="https://github.com/ppc-ntu-khpi/uml-java-34-idjis/blob/master/umldiagram.PNG" width="40%"/>
